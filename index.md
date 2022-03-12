@@ -1,3 +1,6 @@
+<!---The meme is to combine six blocks together, three are online pictures and three are created black blocks with annotations, they are stacked with two on each level.--->
+<!---The new meme is used r markdown format we use "```r" and "```" to --->
+
 ```r
 
 library(magick)
