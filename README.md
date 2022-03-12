@@ -1,6 +1,6 @@
 # stats220
 
-[stats220](https://github.com/HOU-DTer/stats220)
+[stats220](https://hou-dter.github.io/stats220/)
 
 ## Heading level 1
 
