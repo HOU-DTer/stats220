@@ -37,4 +37,4 @@ image_write(meme,"my_meme.png")
 
 ```
 
-meme
+> meme
