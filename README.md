@@ -1,30 +1,32 @@
 <!--- heading level 1 --->
 # HOU-DTer stats220 repo
-
+<!--- unordered lists --->
 * The purpose of the repo is to get familiar with the basic concepts of coding in R file and R markdown files as well as using the Github pages. These files named as README.md, index.md and my_meme.png are mainly used for the Assignment 1. 
 
 * Below is the demonstrations of the requirements from partA of the Assignment 1.
-
+<!--- my repo links provided --->
 * My site is published at [stats220](https://hou-dter.github.io/stats220/)
-
+<!--- heading level 2 --->
 ## Welcome to the 2022 SEMESTER 1 STATS 220
-1. **There are 6 modules to learn and there are 10 labs, 5 assignments, 1 test and 1 exam to do.**
-2. *You need to R or Rstudio to do your work and assignments*
-3. `You will need to learn coding` such as below a chunk of code example with code fences
-
+<!--- ordered lists --->
+1. **There are 6 modules to learn and there are 10 labs, 5 assignments, 1 test and 1 exam to do.** <!--- bold --->
+2. *You need to R or Rstudio to do your work and assignments* <!--- italic --->
+3. `You will need to learn coding` such as below a chunk of code example with code fences <!--- inlined code --->
+<!--- code fence --->
 ```{r}
 ## to type your code below
 numbers <- c(1:10)
 ```
-
 ### Module 1: Creating HTML by combining modern technologies
 1. packages ...
 2. functions ...
 
 #### Below are the images within my repository and accessd from other website
-* The main website address for searching all images is here:
-[baidu](https://www.baidu.com/)
+* The main websites address for searching all images are here:
+1. [baidu](https://www.baidu.com/) <!--- links to other website --->
+2. [google](https://www.google.com) <!--- links to other website --->
 
+<!--- images links provided --->
 * Images used in meme.R
 
 ![samoye](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.quchong.cn%2Fuploads%2F210531%2F106-210531135635D3.jpg&refer=http%3A%2F%2Fwww.quchong.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649660942&t=6dd404ce9bad23cf212823b30299c1e7)
