@@ -1,6 +1,6 @@
 1. The meme is to combine nine images together, six are online pictures and three are created black blocks with annotations, they are stacked with three on each other. These combined images are to show three types of dogs and the three actions they would like to do. One dog likes one action.
-2. For the new meme we put the original meme in code fence as a chunk of code with commonts for each steps to explain what is doing.
-3. The combined image is shown at the bottom.
+2. For the new meme we put the original meme code with some codes to meet the creativity requirements in code fence as a chunk of code with commonts for each steps to explain what is doing.
+3. The combined image is shown at the bottom. The basic image is just have six images (they are three types of dogs and three black blocks with their names beside), and can be seem in this link [](https://github.com/HOU-DTer/stats220/blob/main/my_meme_basicone.png)
 
 ```r
 
