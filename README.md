@@ -1,3 +1,4 @@
+<!--- heading level 1 --->
 # HOU-DTer stats220 repo
 
 * The purpose of the repo is to get familiar with the basic concepts of coding in R file and R markdown files as well as using the Github pages. These files named as README.md, index.md and my_meme.png are mainly used for the Assignment 1. 
