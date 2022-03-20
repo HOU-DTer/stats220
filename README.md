@@ -17,12 +17,11 @@ numbers <- c(1:10)
 ```
 
 ### Module 1: Creating HTML by combining modern technologies
-1. packages
-2. functions
-...
+1. packages ...
+2. functions ...
 
 #### Below are the images within my repository and accessd from other website
-* The main website address
+* The main website address for searching all images is here
 [baidu](https://www.baidu.com/)
 
 * Images used in meme.R
@@ -39,6 +38,17 @@ numbers <- c(1:10)
 
 ![dogtools](https://img2.baidu.com/it/u=3861410943,3348131614&fm=253&fmt=auto&app=138&f=JPEG?w=652&h=500)
 
+* Images used in index.Rmd
+
+![run_image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fcdnimg103.lizhi.fm%2Faudio_cover%2F2015%2F05%2F21%2F20187513743293063_580x580.jpg&refer=http%3A%2F%2Fcdnimg103.lizhi.fm&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649682803&t=09b236743185e1abb67e76dfd5426f55)
+
+![jump_image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic67.nipic.com%2Ffile%2F20150520%2F17961491_134825464000_2.jpg&refer=http%3A%2F%2Fpic67.nipic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649682885&t=82757f23bc3f23c889d09568ac5d4843)
+
+![eat_image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_match%2F0%2F11570729873%2F0.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649682957&t=1f815271248f4c94217dad5cda11ab4a)
+
+![sleep_image](https://pic.rmb.bdstatic.com/7022a7e2b0078f210b8f3e493d68d42d.jpeg)
+
+![crawl_image](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2.99ku.vip%2Fmanage%2Fbook%2F2015%2F0630%2Fps-shilijiaochengx%2Fko2obkytji2.jpg&refer=http%3A%2F%2Fimg2.99ku.vip&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649683118&t=17d01e05f91a0d65cfe8423be55a5b88)
 
 
 
