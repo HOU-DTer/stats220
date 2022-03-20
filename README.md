@@ -9,9 +9,12 @@
 <!--- heading level 2 --->
 ## Welcome to the 2022 SEMESTER 1 STATS 220
 <!--- ordered lists --->
-1. **There are 6 modules to learn and there are 10 labs, 5 assignments, 1 test and 1 exam to do.** <!--- bold --->
-2. *You need to R or Rstudio to do your work and assignments* <!--- italic --->
-3. `You will need to learn coding` such as below a chunk of code example with code fences <!--- inlined code --->
+<!--- bold --->
+1. **There are 6 modules to learn and there are 10 labs, 5 assignments, 1 test and 1 exam to do.** 
+<!--- italic --->
+2. *You need to R or Rstudio to do your work and assignments* 
+<!--- inlined code --->
+3. `You will need to learn coding` such as below a chunk of code example with code fences 
 <!--- code fence --->
 ```{r}
 ## to type your code below
@@ -19,12 +22,15 @@ numbers <- c(1:10)
 ```
 ### Module 1: Creating HTML by combining modern technologies
 1. packages ...
+
 2. functions ...
 
 #### Below are the images within my repository and accessd from other website
 * The main websites address for searching all images are here:
-1. [baidu](https://www.baidu.com/) <!--- links to other website --->
-2. [google](https://www.google.com) <!--- links to other website --->
+<!--- links to other website --->
+1. [baidu](https://www.baidu.com/) 
+<!--- links to other website --->
+2. [google](https://www.google.com) 
 
 <!--- images links provided --->
 * Images used in meme.R
