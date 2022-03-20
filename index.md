@@ -1,5 +1,5 @@
 1. The meme is to combine nine images together, six are online pictures and three are created black blocks with annotations, they are stacked with three on each other. These combined images are to show three types of dogs and the three actions they would like to do. One dog likes one action.
-2. For the new meme we use "```r" and "```" as code fence and with commonts for each steps to explain what is doing.
+2. For the new meme we put the original meme in code fence as a chunk of code with commonts for each steps to explain what is doing.
 3. The combined image is shown at the bottom.
 
 ```r
@@ -49,3 +49,4 @@ image_write(meme,"my_meme.png")
 
 ```
 ![my_meme.png](https://github.com/HOU-DTer/stats220/blob/main/my_meme.png)
+![my_meme](https://user-images.githubusercontent.com/70314010/159152675-e46ed72a-04ba-4d67-be68-6a57e8de9d72.png)
