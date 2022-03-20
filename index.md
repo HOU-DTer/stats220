@@ -35,5 +35,6 @@ meme <- c(first_row, second_row, third_row) %>% image_append(stack = TRUE)
 
 image_write(meme,"my_meme.png")
 
-meme
 ```
+
+meme
