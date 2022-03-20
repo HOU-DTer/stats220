@@ -1,11 +1,16 @@
-1. The meme is to combine nine images together, six are online pictures and three are created black blocks with annotations, they are stacked with three on each other. These combined images are to show three types of dogs and the three actions they would like to do. One dog likes one action.
-2. For the new meme we put the original meme code with some codes to meet the creativity requirements in code fence as a chunk of code with commonts for each steps to explain what is doing. The additional magick function used are:
+# The motivation and what is new to meme
+
+**1. The meme is to combine nine images together, six are online pictures and three are created black blocks with annotations, they are stacked with three on each other. These combined images are to show three types of dogs and the three actions they would like to do. One dog likes one action.**
+
+*2. For the new meme we put the original meme code with some codes to meet the creativity requirements in code fence as a chunk of code with commonts for each steps to explain what is doing. The additional magick function used are:*
 * ```image_resize```
 * ```image_blur```
 * ```image_flip()```
 * ```image_flop()```
-3. The combined image is shown at the bottom. The basic image is just have six images (they are three types of dogs and three black blocks with their names beside), and can be seen in this link ![my_meme_basicone.png](https://github.com/HOU-DTer/stats220/blob/main/my_meme_basicone.png)
 
+3. The combined image is shown at the bottom. The basic image is just have six images (they are three types of dogs and three black blocks with their names beside), and can be seen in this link [my_meme_basicone.png](https://github.com/HOU-DTer/stats220/blob/main/my_meme_basicone.png) and these images are found from the website called [baidu](https://www.baidu.com/).
+
+## The modified r code
 ```r
 
 # load the magick library
@@ -52,4 +57,11 @@ meme <- c(first_row, second_row, third_row) %>% image_append(stack = TRUE)
 image_write(meme,"my_meme.png")
 
 ```
+
+### Showing the combined image
+1. The basic one
+![my_meme_basicone](https://user-images.githubusercontent.com/70314010/159153352-59eb3a15-1965-4d1e-a7d9-6ef6b5ff369a.png)
+
+2. The modified meme 
 ![my_meme](https://user-images.githubusercontent.com/70314010/159152675-e46ed72a-04ba-4d67-be68-6a57e8de9d72.png)
+
