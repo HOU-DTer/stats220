@@ -1,18 +1,19 @@
 # 2022 Semester1 Stats220
 
-[stats220](https://hou-dter.github.io/stats220/)
 * The purpose of the repo is to get familiar with the basic concepts of coding in R file and R markdown files as well as using the Github pages. These files named as README.md, index.md and my_meme.png are mainly used for the Assignment 1. 
+
 * Below is the demonstrations of the requirements from partA of the Assignment 1.
 
-## Heading level 1
+* My site is published at [stats220](https://hou-dter.github.io/stats220/)
 
-### Heading level 2
+## Welcome to the STATS 220
+1. **There are 6 modules to learn and there are 10 labs, 5 assignments, 1 test and 1 exam to do.**
+2. *You need to R or Rstudio to do your work and assignments*
+3. `You will need to learn coding`
 
+### Module 1: Creating HTML by combining modern technologies
 1. First thing is to read
 2. Second thing is to think
-
-* Read is to understand
-* Think is to create
 
 **Hello**
 *World*
