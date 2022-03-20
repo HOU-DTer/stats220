@@ -48,5 +48,4 @@ meme <- c(first_row, second_row, third_row) %>% image_append(stack = TRUE)
 image_write(meme,"my_meme.png")
 
 ```
-![my_meme.png](https://github.com/HOU-DTer/stats220/blob/main/my_meme.png)
 ![my_meme](https://user-images.githubusercontent.com/70314010/159152675-e46ed72a-04ba-4d67-be68-6a57e8de9d72.png)
