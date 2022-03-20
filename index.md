@@ -2,7 +2,7 @@
 <!---The new meme is used r markdown format we use "```r" and "```" --->
 
 ```r
-
+# dsfsfasf
 library(magick)
 
 border_collie <- image_read("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.chongwu.cc%2Fd%2Ffile%2Fbianmu%2F201310%2F575f08c38b70112377e367a689330b89.jpg&refer=http%3A%2F%2Fimg9.chongwu.cc&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649661126&t=6dbf69f1851e03cb2e00b9883d1fc35d") %>% image_scale(500)
@@ -37,4 +37,4 @@ image_write(meme,"my_meme.png")
 
 ```
 
-> meme
+![my_meme.png](https://github.com/HOU-DTer/stats220/blob/main/my_meme.png)
