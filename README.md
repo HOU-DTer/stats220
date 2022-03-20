@@ -21,7 +21,7 @@ numbers <- c(1:10)
 2. functions ...
 
 #### Below are the images within my repository and accessd from other website
-* The main website address for searching all images is here
+* The main website address for searching all images is here:
 [baidu](https://www.baidu.com/)
 
 * Images used in meme.R
