@@ -1,4 +1,4 @@
-# 2022 Semester1 Stats220
+# HOU-DTer stats220 repo
 
 * The purpose of the repo is to get familiar with the basic concepts of coding in R file and R markdown files as well as using the Github pages. These files named as README.md, index.md and my_meme.png are mainly used for the Assignment 1. 
 
@@ -6,22 +6,46 @@
 
 * My site is published at [stats220](https://hou-dter.github.io/stats220/)
 
-## Welcome to the STATS 220
+## Welcome to the 2022 SEMESTER 1 STATS 220
 1. **There are 6 modules to learn and there are 10 labs, 5 assignments, 1 test and 1 exam to do.**
 2. *You need to R or Rstudio to do your work and assignments*
-3. `You will need to learn coding`
+3. `You will need to learn coding` such as below a chunk of code example with code fences
+
+```{r}
+## to type your code below
+numbers <- c(1:10)
+```
 
 ### Module 1: Creating HTML by combining modern technologies
-1. First thing is to read
-2. Second thing is to think
+1. packages
+2. functions
+...
 
-**Hello**
-*World*
-
+#### Below are the images within my repository and accessd from other website
+* The main website address
 [baidu](https://www.baidu.com/)
+
+* Images used in meme.R
 
 ![samoye](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.quchong.cn%2Fuploads%2F210531%2F106-210531135635D3.jpg&refer=http%3A%2F%2Fwww.quchong.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649660942&t=6dd404ce9bad23cf212823b30299c1e7)
 
 ![husky](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Feuro-premium.cn%2Fsites%2Fdefault%2Ffiles%2F2017%2F06%2F2017-06-13-020.jpg&refer=http%3A%2F%2Feuro-premium.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649660953&t=8f62cdd991fac0a04bde4383b0e4d061)
 
 ![border_collie](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.chongwu.cc%2Fd%2Ffile%2Fbianmu%2F201310%2F575f08c38b70112377e367a689330b89.jpg&refer=http%3A%2F%2Fimg9.chongwu.cc&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1649661126&t=6dbf69f1851e03cb2e00b9883d1fc35d)
+
+![bone](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.xiaokeai.com%2Fuploadfile%2F2020%2F0921%2F20200921034257842.jpg&refer=http%3A%2F%2Fimg.xiaokeai.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650339472&t=2be30ccce23db8d58fec269075e706a5)
+
+![dogswimming](https://img2.baidu.com/it/u=531342792,3502212661&fm=253&fmt=auto&app=138&f=JPEG?w=452&h=300)
+
+![dogtools](https://img2.baidu.com/it/u=3861410943,3348131614&fm=253&fmt=auto&app=138&f=JPEG?w=652&h=500)
+
+
+
+
+
+
+
+
+
+
+
